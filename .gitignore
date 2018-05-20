@@ -2,3 +2,4 @@
 *.dat
 
 images/*
+.ipynb_checkpoints/*
